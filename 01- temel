@@ -1,11 +1,1 @@
-# Ekrana merhaba dünya yazan python kodu
-print("Hello World") # Ekrana çıktı yazdırmak için print komutu kullanılır.
-# Çıktı: Hello World
 
-# Değişken tanımlama
-isim= "Mahmut" #string --> Metinsel ifadeler için string veri tipi kullanılır
-x = 3 # integer  --> Tam sayı ifadeler için int veri tipi kullanılır.
-fiyat = 13.95 # float--> Ondalıklı ifadeler için float veri tipi kullanılır
-# Mantıksal ifadeler için bool veri tipi kullanılır. True(doğru) veya False(yanlış) değerlerini alabilir.
-Ali_dersi_gecti_mi = True # boolean --> Ali dersi geçmiş
-Ali_yeni_telefon_aldi_mi = False # --> Ali yeni telefon almamış
